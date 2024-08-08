@@ -35,7 +35,7 @@ function Experience() {
             >
               <img
                 src={logo}
-                className="w-[800px] h-[200px] p-1  border-[4px]"
+                className="w-[500px] h-[180px] p-1  border-[4px]"
                 alt=""
               />
               <div>
