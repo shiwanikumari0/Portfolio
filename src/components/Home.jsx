@@ -21,11 +21,11 @@ function Home() {
             <br />
             <div className="flex space-x-1 text-2xl md:text-4xl">
             
-              <h1>Hello, I'm a</h1>
+              <h1>Hello, I'm a </h1>
               {/* <span >Developer</span> */}
               <ReactTyped
                 className="text-red-700 font-bold"
-                strings={["Developer", "Programmer", "Coder"]}
+                strings={["Developer", "Programmer"]}
                 typeSpeed={40}
                 backSpeed={50}
                 loop={true}
