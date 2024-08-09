@@ -21,7 +21,7 @@ function About() {
         <span>
           <h1>Dec. 2021 – May 2025</h1>
           Harcourt Butler Technical University Bachelor of Technology in
-          Computer Science and Engineering || CGPA - 7.73 <br /> Kanpur, Uttar
+          Computer Science and Engineering || CGPA - 7.78 <br /> Kanpur, Uttar
           Pradesh <br />
           <br />
           <h1>Apr. 2019 – May 2020</h1>
