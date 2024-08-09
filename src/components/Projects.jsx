@@ -22,9 +22,9 @@ function PortFolio() {
     {
       id: 3,
       logo: Survey,
-      name: "Developer Survey",
+      name: "Developers Survey",
       para: "This is a survey system website and I have used html,CSS and JavaScript.",
-      link: "https://01shiwanikumari.github.io/Complete-survey-system/",
+      link: "https://complete-survey-system.vercel.app/",
     },
   ];
   return (
