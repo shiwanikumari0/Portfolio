@@ -1,7 +1,7 @@
 import React from "react";
 import Bookstore from "../../public/Bookstore.png";
 import Hbtu from "../../public/Hbtu.png";
-import Survey from "../../public/Survey.png";
+import Editor from "../../public/Editor.png";
 
 function PortFolio() {
   const cardItem = [
@@ -21,10 +21,10 @@ function PortFolio() {
     },
     {
       id: 3,
-      logo: Survey,
-      name: "Developers Survey",
-      para: "This is a survey system website and I have used html,CSS and JavaScript.",
-      link: "https://complete-survey-system.vercel.app/",
+      logo: Editor,
+      name: "Intense Code Editor",
+      para: "The project enables real-time collaboration across multiple programming languages.",
+      link: "https://intense-code-editor.vercel.app/",
     },
   ];
   return (
